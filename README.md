@@ -231,16 +231,13 @@ telecom-churn-analytics/
 ├── README.md
 │
 ├── bi-project/
-│   ├── sql/
 │   ├── ssis/
 │   ├── ssas/
 │   ├── powerbi/
-│   └── README.md
+│  
 │
 ├── ml-project/
 │   ├── telecom-churn-prediction.ipynb
-│   ├── requirements.txt
-│   └── README.md
 │
 └── screenshots/
     ├── powerbi-dashboard.png
